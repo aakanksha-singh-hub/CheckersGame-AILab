@@ -1,0 +1,1 @@
+export const Q_table: { [key: string]: { [key: string]: number } } = {}; 
