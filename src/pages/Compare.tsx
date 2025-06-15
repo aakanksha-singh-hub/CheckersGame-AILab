@@ -237,8 +237,8 @@ const ComparePage = () => {
                   </tr>
                   <tr className="border-b border-slate-200">
                     <td className="py-3 px-4 text-slate-700">vs Random Agent</td>
-                    <td className="py-3 px-4 text-slate-700">>90% win rate</td>
-                    <td className="py-3 px-4 text-slate-700">>90% win rate</td>
+                    <td className="py-3 px-4 text-slate-700">&gt;90% win rate</td>
+                    <td className="py-3 px-4 text-slate-700">&gt;90% win rate</td>
                   </tr>
                   <tr>
                     <td className="py-3 px-4 text-slate-700">Decision Latency (Avg)</td>
