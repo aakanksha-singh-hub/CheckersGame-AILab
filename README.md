@@ -2,6 +2,11 @@
 
 This is a research project exploring AI algorithms in the game of Checkers, focusing on a comparison between the Minimax algorithm and Reinforcement Learning (Q-Learning).
 
+## 📽️ Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/5wKuHaYMHtk/0.jpg)](https://youtu.be/5wKuHaYMHtk)
+
+
 ## Project Overview
 
 This platform provides an interactive environment to:
